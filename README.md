@@ -1,2 +1,3 @@
 # hello-world
-first project to discover git
+ 
+ It's interesting to know how it works !
