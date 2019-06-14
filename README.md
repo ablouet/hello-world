@@ -1,3 +1,3 @@
 # hello-world
  
- It's interesting to know how it works !
+ I've made a mistake between the two branches
